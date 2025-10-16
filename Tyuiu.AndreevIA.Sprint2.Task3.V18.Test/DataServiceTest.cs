@@ -11,7 +11,7 @@ namespace Tyuiu.AndreevIA.Sprint2.Task3.V18.Test
         {
             int x = 10;
             var res = ds.Calculate(x);
-            double wait = 0;
+            double wait = 743.878;
             Assert.AreEqual(wait, res);
         }
         [TestMethod]
@@ -19,7 +19,7 @@ namespace Tyuiu.AndreevIA.Sprint2.Task3.V18.Test
         {
             int x = 0;
             var res = ds.Calculate(x);
-            double wait = 0;
+            double wait = 0.75;
             Assert.AreEqual(wait, res);
         }
         [TestMethod]
@@ -27,7 +27,7 @@ namespace Tyuiu.AndreevIA.Sprint2.Task3.V18.Test
         {
             int x = 1;
             var res = ds.Calculate(x);
-            double wait = 0;
+            double wait = 2;
             Assert.AreEqual(wait, res);
         }
         [TestMethod]
@@ -35,7 +35,7 @@ namespace Tyuiu.AndreevIA.Sprint2.Task3.V18.Test
         {
             int x = -30;
             var res = ds.Calculate(x);
-            double wait = 0;
+            double wait = -329.967;
             Assert.AreEqual(wait, res);
         }
     }
