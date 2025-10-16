@@ -1,4 +1,4 @@
-﻿using Tyuiu.AndreevIA.Sprint2.Task3.V18;
+﻿using Tyuiu.AndreevIA.Sprint2.Task3.V18.Lib;
 
 DataService ds = new DataService();
 Console.Title = "Спринт #2 | Выполнил Андреев И. А. | РППб-25-1";

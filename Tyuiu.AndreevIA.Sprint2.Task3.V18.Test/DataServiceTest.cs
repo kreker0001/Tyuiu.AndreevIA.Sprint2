@@ -1,4 +1,4 @@
-﻿using Tyuiu.AndreevIA.Sprint2.Task3.V18;
+﻿using Tyuiu.AndreevIA.Sprint2.Task3.V18.Lib;
 
 namespace Tyuiu.AndreevIA.Sprint2.Task3.V18.Test
 {
