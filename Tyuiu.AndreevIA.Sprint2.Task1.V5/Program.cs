@@ -1,12 +1,12 @@
 ﻿using Tyuiu.AndreevIA.Sprint2.Task1.V5.Lib;
 
-Console.Title = "Спринт #1 | Выполнил Андреев И. А. | РППб-25-1";
+Console.Title = "Спринт #2 | Выполнил Андреев И. А. | РППб-25-1";
 
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* Спринт #2                                                               *");
-Console.WriteLine("* Тема. Операции сравнения                                                *");
-Console.WriteLine("* Задание #0                                                              *");
-Console.WriteLine("* Вариант #23                                                             *");
+Console.WriteLine("* Тема. Логические операции                                               *");
+Console.WriteLine("* Задание #1                                                              *");
+Console.WriteLine("* Вариант #5                                                              *");
 Console.WriteLine("* Выполнил: Андреев Иван Александрович | РППб-25-1                        *");
 Console.WriteLine("***************************************************************************");
 Console.WriteLine("* УСЛОВИЕ:                                                                *");
