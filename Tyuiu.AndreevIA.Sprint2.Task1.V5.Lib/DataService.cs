@@ -1,0 +1,19 @@
+﻿namespace Tyuiu.AndreevIA.Sprint2.Task1.V5.Lib
+{
+    public class DataService
+    {
+        public bool[] GetLogicOperations(int a, int b, int c, int d)
+        {
+            bool[] result =
+            [
+                (a == b | c != d),
+                (a >= b & b < d),
+                (a > b || c >= d),
+                (a != c && b < d),
+                (!(a < c) ^ (b <= d)),
+                (a <= b && c > d),
+            ];
+            return result;
+        }
+    }
+}
