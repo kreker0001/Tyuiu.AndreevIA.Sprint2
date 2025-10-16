@@ -1,6 +1,8 @@
-﻿namespace Tyuiu.AndreevIA.Sprint2.Task1.V5.Lib
+﻿using tyuiu.cources.programming.interfaces.Sprint2;
+
+namespace Tyuiu.AndreevIA.Sprint2.Task1.V5.Lib
 {
-    public class DataService
+    public class DataService : ISprint2Task1V5
     {
         public bool[] GetLogicOperations(int a, int b, int c, int d)
         {
